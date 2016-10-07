@@ -1,0 +1,18 @@
+{
+  "name": "thefan",
+  "version": "1.0.0",
+  "description": "the fan api",
+  "main": "app.js",
+  "dependencies": {
+    "restify":"4.1.1",
+    "firebase":"3.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thefan"
+  ],
+  "author": "upendra",
+  "license": "ISC"
+}
